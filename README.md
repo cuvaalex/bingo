@@ -1,0 +1,2 @@
+# bingo
+Elm learning repository
